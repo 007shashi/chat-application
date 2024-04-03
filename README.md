@@ -18,7 +18,7 @@
 3. To install Node Modules Open Terminal
 4. Specify path to code folder
 4. Type ----> npm init -y
-5. ---------> npm install express socket.io 
+5. ----------> npm install express socket.io 
 6. Now after installing node modules.
 7. Start the project by running server file using terminal
 8. To Run the Project Type ----> node server.js
